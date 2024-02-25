@@ -7,4 +7,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+👨‍💻 I’m currently using backend languajes like Python, Java and managing databases with MySQL
+📚 I’m currently learning everything about Backend technologies.😅
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+⚡ Fun fact: I love to play football and watch F1 🏎️.
+
 
