@@ -1,6 +1,4 @@
-<h1 align="center"><b>Hi , I'm <a href="https://jmcode.dev">Joan Martinez</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
+<img alt="Night Coding" src="Banner jmcode.png" width='40' align="center"/><h1>Hey there! I'm Joan Martinez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
