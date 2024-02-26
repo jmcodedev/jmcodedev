@@ -21,7 +21,7 @@
 
 ## <p align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> &nbsp;Some Languages and Tools &nbsp;💻</p>
 
-<img src="/assets/undraw_hacker_mind_-6-y85.svg" align="right">
+<img src="/assets/undraw_hacker_mind_-6-y85.svg" align="right" width="50%">
 <h3 align="left">Backend:</h3>
 
 <p align="left" id="backend">
