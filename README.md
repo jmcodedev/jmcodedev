@@ -14,7 +14,7 @@
 <p align="center">
 <a href='https://linkedin.com/in/jmcode' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge//jmcode-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2&color=FFFFFF'/></a>
 <a href='mailto:joan@jmcode.dev' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Mail-100000?style=for-the-badge&logo=Gmail&logoColor=FF0000&labelColor=FFFFFF&color=ccf381'/></a>
-<a href='https://jmcode.dev' target="_blank"><img alt='' src='https://img.shields.io/badge/Portafolio-100000?style=for-the-badge&logo=&logoColor=white&labelColor=D46A6A&color=4731d4'/></a>
+<a href='https://jmcode.dev' target="_blank"><img alt='' src='https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=&logoColor=white&labelColor=D46A6A&color=4731d4'/></a>
 </p>
 
 <br>
@@ -47,3 +47,14 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
+
+![jmCode GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcodedev&show_icons=true&theme=aura)
+<br>
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmcodedev&repo=NoteDesk&theme=midnight-purple)](https://github.com/jmcodedev/Notedesk)
+<br>
+<br>
+<br>
+
+<b align="center">![](https://komarev.com/ghpvc/?username=jmcodedev&style=for-the-badge&color=blueviolet)</b>
