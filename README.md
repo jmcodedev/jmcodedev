@@ -64,4 +64,4 @@
 <br>
 <br>
 
-<b align="center">![](https://komarev.com/ghpvc/?username=jmcodedev&style=for-the-badge&color=blueviolet)</b>
+![](https://komarev.com/ghpvc/?username=jmcodedev&style=for-the-badge&color=blueviolet)
