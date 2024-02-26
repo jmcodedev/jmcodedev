@@ -52,7 +52,8 @@
 <br>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmcodedev&repo=NoteDesk&theme=midnight-purple)](https://github.com/jmcodedev/Notedesk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmcodedev&repo=NoteDesk&theme=midnight-purple)](https://github.com/jmcodedev/Notedesk) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmcodedev&repo=Web-Portfolio&theme=midnight-purple)](https://github.com/jmcodedev/web-portfolio)
 <br>
 <br>
 <br>
