@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Joan Martínez from Valencia (Spain)<br>- 🔭 I’m working as 1st level technician<br>- 📚 I'm currently learning some React<br>- ⚡ In my free time I love to watch F1 🏎️</p>
+<p align="left">I'm Joan Martínez from Valencia (Spain)<br> 🔭 I’m working as 1st level technician<br> 📚 I'm currently learning some React<br> ⚡ In my free time I love to watch F1 🏎️</p>
 
 ###
 
