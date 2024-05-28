@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://github.com/jmcodedev/jmcodedev/raw/master/assets/banner_jmcode.png"  />
+  <img height="auto" src="https://github.com/jmcodedev/jmcodedev/raw/master/assets/banner_jmcode.png"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
   <a href="mailto:joan@jmcode.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://jmcode.dev"><img src="https://img.shields.io/badge/My%20Portfolio-gray?style=for-the-badge&logoWidth=25&link=https://jmcode.dev" alt="My Portfolio" /></a>
+  <a href="https://jmcode.dev"><img src="https://img.shields.io/badge/My%20Portfolio-gray?style=for-the-badge&logoWidth=25&link=https://jmcode.dev" height="25" alt="My Portfolio" /></a>
 </div>
 
 ###
