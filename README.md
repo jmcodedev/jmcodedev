@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="auto" src="https://github.com/jmcodedev/jmcodedev/raw/master/assets/banner_jmcode.png"  />
-</div>
-
 ###
 
 <div align="center">
